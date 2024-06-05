@@ -16,8 +16,9 @@ theme:
   palette:
     - scheme: default
   plugins:
-  - tags:
-      tags: false
+    - tags:
+        tags: false
+    - social
 
 markdown_extensions:
   - toc:
@@ -57,6 +58,8 @@ nav:
     - foodinformation.md
   - 西餐:
     - page1/emptypage.md
+  - 新疆菜:
+    - page2/
 
 
 
