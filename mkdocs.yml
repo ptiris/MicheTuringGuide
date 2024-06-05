@@ -15,6 +15,9 @@ theme:
   font: false
   palette:
     - scheme: default
+  plugins:
+  - tags:
+      tags: false
 
 markdown_extensions:
   - toc:
@@ -54,9 +57,6 @@ nav:
     - foodinformation.md
   - 西餐:
     - page1/emptypage.md
-
-  
-
 
 
 
